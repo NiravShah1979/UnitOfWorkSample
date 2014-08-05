@@ -1,0 +1,17 @@
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\bin\Debug\UnitOfWork.Dal.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\bin\Debug\UnitOfWork.Dal.pdb
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\bin\Debug\FluentNHibernate.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\bin\Debug\Iesi.Collections.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\bin\Debug\NHibernate.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\bin\Debug\UnitOfWork.Dal.Interface.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\bin\Debug\UnitOfWork.Dal.Model.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\bin\Debug\UnitOfWork.Dal.Interface.pdb
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\bin\Debug\UnitOfWork.Dal.Model.pdb
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\bin\Debug\FluentNHibernate.xml
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\bin\Debug\Iesi.Collections.xml
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\bin\Debug\NHibernate.xml
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\obj\Debug\UnitOfWork.Dal.csprojResolveAssemblyReference.cache
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\obj\Debug\UnitOfWork.Dal.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\obj\Debug\UnitOfWork.Dal.pdb
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\bin\Debug\UnitOfWorkDal.Mappings.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal\bin\Debug\UnitOfWorkDal.Mappings.pdb

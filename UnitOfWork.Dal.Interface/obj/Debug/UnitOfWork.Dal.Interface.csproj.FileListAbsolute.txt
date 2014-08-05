@@ -1,0 +1,7 @@
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal.Interface\bin\Debug\UnitOfWork.Dal.Interface.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal.Interface\bin\Debug\UnitOfWork.Dal.Interface.pdb
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal.Interface\bin\Debug\UnitOfWork.Dal.Model.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal.Interface\bin\Debug\UnitOfWork.Dal.Model.pdb
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal.Interface\obj\Debug\UnitOfWork.Dal.Interface.csprojResolveAssemblyReference.cache
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal.Interface\obj\Debug\UnitOfWork.Dal.Interface.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWork.Dal.Interface\obj\Debug\UnitOfWork.Dal.Interface.pdb

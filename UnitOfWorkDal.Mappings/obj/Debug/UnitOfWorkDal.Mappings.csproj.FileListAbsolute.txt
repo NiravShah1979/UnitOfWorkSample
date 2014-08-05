@@ -1,0 +1,13 @@
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWorkDal.Mappings\bin\Debug\UnitOfWorkDal.Mappings.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWorkDal.Mappings\bin\Debug\UnitOfWorkDal.Mappings.pdb
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWorkDal.Mappings\bin\Debug\FluentNHibernate.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWorkDal.Mappings\bin\Debug\Iesi.Collections.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWorkDal.Mappings\bin\Debug\NHibernate.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWorkDal.Mappings\bin\Debug\UnitOfWork.Dal.Model.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWorkDal.Mappings\bin\Debug\UnitOfWork.Dal.Model.pdb
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWorkDal.Mappings\bin\Debug\FluentNHibernate.xml
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWorkDal.Mappings\bin\Debug\Iesi.Collections.xml
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWorkDal.Mappings\bin\Debug\NHibernate.xml
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWorkDal.Mappings\obj\Debug\UnitOfWorkDal.Mappings.csprojResolveAssemblyReference.cache
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWorkDal.Mappings\obj\Debug\UnitOfWorkDal.Mappings.dll
+C:\Users\shah_n.PEROOT\Documents\Sample Application\UnitOfWork\UnitOfWorkDal.Mappings\obj\Debug\UnitOfWorkDal.Mappings.pdb
